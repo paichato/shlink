@@ -1,0 +1,12 @@
+{
+  "name": "shlink",
+  "displayName": "shlink",
+  "expo": {
+    "name": "shlink",
+    "slug": "shlink",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
